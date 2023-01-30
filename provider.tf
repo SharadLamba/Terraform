@@ -1,4 +1,4 @@
 # Provider Block
 provider "aws" {
-  region  = "äp-south-1"
+  region  = "ap-south-1"
 }
